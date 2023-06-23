@@ -1,17 +1,16 @@
 <h2 align="center">
-    ──「 Sophia X ᴍᴜsɪᴄ 」──
+    ──「𓆩𝐕𝐍𝐍𝐃🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪乛[🇮🇳]™」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="https://te.legra.ph/file/389440a8556f7219d3dea.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT/AMMusic/stargazers"><img src="https://img.shields.io/github/stars/AbhiModszYT/AMMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AbhiModszYT/AMMusic/network/members"> <img src="https://img.shields.io/github/forks/AbhiModszYT/AMMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AbhiModszYT/AMMusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/devmeenayt/vnndmusic/stargazers"><img src="https://github.com/devmeenayt/vnndmusic
+<a href="https://github.com/devmeenayt/vnndmusic/network/members"> <img src="https://img.shields.io/github/forks/devmeenayt/vnndmusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AbhiModszYT/AMMusic/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AMMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/devmeenayt/vnndmusic/commits/devmeenayt"> <img src="https://img.shields.io/github/last-commit/devmeenayt/vnndmusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ## Features Of Shizuka And Commands ❤️
@@ -111,50 +110,18 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/AMMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
-</h3>
-
-- Get your [Necessary Variables](https://github.com/AbhiModszYT/AMMusic/blob/main/sample.env)
-- Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
-- Install Ffmpeg by :
-`sudo apt-get install python3-pip ffmpeg -y`
-- Install required packages by :
-`sudo apt-get install python3-pip -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-- Clone the repository by :
-`git clone https://github.com/AbhiModszYT/AMMusic && cd AMMusic`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
-- Rename the env file by :
-`mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by :
-`bash start`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
-━━━━━━━━━━━━━━━━━━━━
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/devmeenayt/vnndmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
 <p align="center">
-<a href="https://t.me/AM_YTSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/VNND_SUPPORT_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AbhiModszYT_Return"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href=https://t.me/VNND_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 # Owner And Credit
@@ -166,23 +133,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
    ᴄʀᴇᴅɪᴛs 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [AbhiModszYT](https://telegram.dog/AM_YTBOTT)
-- [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
+- [D℮ṽ](https://t.me/ITZ_EXPERT_DEV) 🤟🏻 🥀
 </details>
 
 </h3>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="AbhiModszYT" /> </a>
-</p>
-
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
-
-<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/AbhiModszYT/AMMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AMMusic&theme=chartreuse-dark"></a>
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/devmeenayt"> <img src="https://img.shields.io/badge/devmeenayt/-black?style=for-the-badge&logo=github" alt="devmeenayt" /> </a>
